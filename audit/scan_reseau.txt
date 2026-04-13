@@ -1,0 +1,6 @@
+# Nmap 7.94SVN scan initiated Mon Apr 13 11:39:03 2026 as: nmap -sn -oN /home/e_camescasse/aegis/audit/scan_reseau.txt 192.168.249.0/24
+Nmap scan report for 192.168.249.1
+Host is up (0.00038s latency).
+Nmap scan report for 192.168.249.128
+Host is up (0.000059s latency).
+# Nmap done at Mon Apr 13 11:39:19 2026 -- 256 IP addresses (2 hosts up) scanned in 16.01 seconds

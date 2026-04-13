@@ -1,0 +1,10 @@
+# Nmap 7.94SVN scan initiated Mon Apr 13 11:39:30 2026 as: nmap -sV -oN /home/e_camescasse/aegis/audit/scan_services.txt 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000086s latency).
+Not shown: 999 closed tcp ports (conn-refused)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 9.6p1 Ubuntu 3ubuntu13.15 (Ubuntu Linux; protocol 2.0)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Apr 13 11:39:31 2026 -- 1 IP address (1 host up) scanned in 0.16 seconds
