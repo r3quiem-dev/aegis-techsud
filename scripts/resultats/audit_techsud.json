@@ -1,0 +1,391 @@
+{
+    "meta": {
+        "date": "2026-04-14T07:56:23.549766",
+        "hostname": "techsud-serv",
+        "auditeur": "Groupe 7"
+    },
+    "services_actifs": [
+        {
+            "name": "apparmor.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "apport.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "blk-availability.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "cloud-config.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "cloud-final.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "cloud-init-local.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "cloud-init.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "console-setup.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "cron.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "dbus.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "fail2ban.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "finalrd.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "fwupd.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "getty@tty1.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "keyboard-setup.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "kmod-static-nodes.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "ldconfig.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "lvm2-monitor.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "ModemManager.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "multipathd.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "open-vm-tools.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "plymouth-quit-wait.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "plymouth-quit.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "plymouth-read-write.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "polkit.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "rsyslog.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "setvtrgb.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "snapd.apparmor.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "snapd.seeded.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "ssh.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "sysstat.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-binfmt.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-fsck@dev-disk-by\\x2duuid-ceeec392\\x2d7a3a\\x2d4ef4\\x2d9d64\\x2d1cfa2e535d37.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-journal-catalog-update.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-journal-flush.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-journald.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "systemd-logind.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "systemd-modules-load.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-networkd.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "systemd-random-seed.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-remount-fs.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-resolved.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "systemd-sysctl.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-sysusers.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-timesyncd.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "systemd-tmpfiles-setup-dev-early.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-tmpfiles-setup-dev.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-tmpfiles-setup.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-udev-trigger.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-udevd.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "systemd-update-done.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-update-utmp.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "systemd-user-sessions.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "udisks2.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "ufw.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "unattended-upgrades.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "upower.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "user-runtime-dir@1000.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "exited"
+        },
+        {
+            "name": "user@1000.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        },
+        {
+            "name": "vgauth.service",
+            "load": "loaded",
+            "active": "active",
+            "sub": "running"
+        }
+    ],
+    "ports_ouverts": [
+        {
+            "port": "53",
+            "address": "127.0.0.54:53",
+            "state": "LISTEN"
+        },
+        {
+            "port": "2222",
+            "address": "0.0.0.0:2222",
+            "state": "LISTEN"
+        },
+        {
+            "port": "53",
+            "address": "127.0.0.53%lo:53",
+            "state": "LISTEN"
+        },
+        {
+            "port": "2222",
+            "address": "[::]:2222",
+            "state": "LISTEN"
+        }
+    ]
+}
